@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapBox Experiments</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoic3VkaXAxMjQiLCJhIjoiY2t4ZXZ4c3FqM3M3djJvbzFhdWJvNmVvbiJ9.w9RQaySlj6nqoykScdmXKw</string>
+    <string name="title_activity_flickr">Playing with Flickr</string>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+</resources>
